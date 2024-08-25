@@ -18,3 +18,4 @@
 # optimize 6885
 # refactor 1689
 # fix 2019
+# refactor 7494
