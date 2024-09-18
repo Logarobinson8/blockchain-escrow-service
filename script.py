@@ -36,3 +36,4 @@
 # fix 6427
 # fix 1535
 # fix 1696
+# optimize 3487
