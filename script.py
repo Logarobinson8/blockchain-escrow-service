@@ -35,3 +35,4 @@
 # refactor 3122
 # fix 6427
 # fix 1535
+# fix 1696
