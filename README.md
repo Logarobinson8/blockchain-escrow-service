@@ -55,3 +55,4 @@
 - Update note 8512
 - Update note 9576
 - Update note 3524
+- Update note 6759
