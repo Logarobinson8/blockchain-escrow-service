@@ -46,3 +46,4 @@
 # fix 7485
 # refactor 2868
 # refactor 5518
+# fix 8722
